@@ -21,4 +21,4 @@ In May 2018, I graduated from the University of Wisconsin-Madison with a BS in C
 
 As I continue my career post graduation, I hope to learn more technologies, create large scale applications, and to create software projects to help others and their communities!
 
-If you want to contact me, please use the contact information on my [resume page](http://andyln.com/resume).
+If you want to contact me, please use the contact information on my [resume page](https://andyln.com/resume).
