@@ -10,7 +10,6 @@ tag:
 - computer science
 
 ---
-
 Over six years of tutoring in both an educational setting and a professional setting has taught me that no matter what person you are tutoring, success is obtained not solely by the knowledge taught, but also by what methods are used to mentor and teach those concepts. This post provides some loose guidelines meant to inform both new and experienced tutors.
 
 ## 1. Patience (and failing fast)
