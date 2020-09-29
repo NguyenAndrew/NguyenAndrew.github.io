@@ -21,4 +21,4 @@ In May 2018, I graduated from the University of Wisconsin-Madison with a BS in C
 
 As I continue my career, I hope to learn more technologies, create large scale applications, mentor others, and to create software projects to help people and their communities!
 
-Want to learn more? I have more information on [resume page](https://andyln.com/resume), as well as my [LinkedIn page](https://www.linkedin.com/in/nguyen-andrew/). Thanks for reading!
+Want to learn more? I have more information on my [resume page](https://andyln.com/resume), as well as my [LinkedIn page](https://www.linkedin.com/in/nguyen-andrew/). Thanks for reading!
