@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rune Scimitars and Solutions – Advice on delivering products that will be used by your target audience"
+title:  "Rune Scimitars and Solutions – Delivering products that will be used by your target audience"
 date:   2020-11-16
 excerpt: "Advice on delivering products that will be used by your target audience."
 tag:
