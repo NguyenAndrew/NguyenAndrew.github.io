@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rune Scimitars and Solutions – Strategically delivering products for your audience"
+title:  "Rune Scimitars and Solutions – Strategically delivering products to your users"
 date:   2020-11-16
 excerpt: "Advice on delivering products that will be used by your target audience."
 tag:
@@ -22,7 +22,7 @@ Like a Rune Scimitar, products can have different “level requirements” (LR).
 An LR is a combination of the following: 
 1. A feature from your product
 2. How accessible that feature is to your users
-3. The time it takes for your users to obtain value from a feature (Can your user start using the feature immediately, or will they need to watch a 10 hour video to understand it).
+3. The time it takes for your users to obtain value from a feature. Can your users start using the feature immediately, or is there a time-consuming block in their way (Examples: Long setup times, need to watch a 10 hour video to understand it, need to read a long manual, etc.)?
 
 Notice that an LR does not include the following: 
 * How quick is it to deliver on a feature. A feature with a low LR may take longer to make then a feature with a higher LR.
