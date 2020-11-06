@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rune Scimitars and Solutions – Delivering products that will be used by your target audience"
+title:  "Rune Scimitars and Solutions – Strategically delivering products for your audience"
 date:   2020-11-16
 excerpt: "Advice on delivering products that will be used by your target audience."
 tag:
@@ -19,9 +19,14 @@ A Rune Scimitar is an item in the video game RuneScape used to slay monsters. Wh
 
 Like a Rune Scimitar, products can have different “level requirements” (LR). Understanding your product’s different LR’s will help you evaluate how well a product will initially roll out, and to better determine product cohesion and strategies on evolving a successful product.
 
-An LR is a combination of the following: A feature from your product, How accessible that feature is to your users, and the time it takes for your users to obtain value from a feature (Example: Can your user start using the feature immediately, or will they need to watch a 10 hour video to understand it).
+An LR is a combination of the following: 
+1. A feature from your product
+2. How accessible that feature is to your users
+3. The time it takes for your users to obtain value from a feature (Can your user start using the feature immediately, or will they need to watch a 10 hour video to understand it).
 
-Notice that an LR does not include the following: How quick is it to deliver on a feature (A feature with a low LR may take longer to make then a feature with a higher LR), The desirability of a product for your user (Example: Like a Rune Scimitar, a product may be popular, but may require a higher LR).
+Notice that an LR does not include the following: 
+* How quick is it to deliver on a feature. A feature with a low LR may take longer to make then a feature with a higher LR.
+* The desirability of a product for your user. Like a Rune Scimitar, a product may be popular, but may be a high LR.
 
 **A feature with a high demand, that cannot be used by your users, does not provide your users value.**
 
