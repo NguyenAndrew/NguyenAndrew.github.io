@@ -24,14 +24,12 @@ An LR is a combination of the following:
 2. How accessible that feature is to your users
 3. The time it takes for your users to obtain value from a feature. Can your users start using the feature immediately, or is there a time-consuming block in their way (Examples: Long setup times, need to watch a 10 hour video to understand it, need to read a long manual, etc.)?
 
-Notice that an LR does not include the following: 
-* How quick is it to deliver on a feature. A feature with a low LR may take longer to make then a feature with a higher LR.
-* The desirability of a product for your user. Like a Rune Scimitar, a product may be popular, but may be a high LR.
+Notice that an LR does not include: How quickly a feature can be delivered, since a feature with a low LR may take longer to make then a feature with a higher LR. It also does not measure the desirability of a product for your user (lLke a Rune Scimitar, a product may be popular, but may also be a high LR. However, a low LR may also have high desirability).
 
 **A feature with a high demand, that cannot be used by your users, does not provide your users value.**
 
 For your products, you will want to deliver features with high return on investment (ROI), that also have low LR. If you see that a high LR feature is in demand, you should strategically deliver on features with lower LR’s that will make your high LR feature usable to your customers.
 
-Make sure your low LR’s, support your planned high LR’s! A contact page for a website (low LR), improves the chances of a successful email campaign (high LR), but would not help create a useful recommendation engine (also high LR). Whereas features like a wish list and purchase history (low LR’s), would help create a usable recommendation engine (high LR).
+Make sure your low LR’s, support your high LR’s! A contact page for a website (low LR), improves the chances of a successful email campaign (high LR), but would not help create a useful recommendation engine (also high LR). Whereas features like a wish list and purchase history (low LR’s), would help create a usable recommendation engine (high LR).
 
 Making highly desirable solutions like Rune Scimitars, while thinking about level requirements (usability and time to use), will make you and your users find success.
