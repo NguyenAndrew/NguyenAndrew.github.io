@@ -24,7 +24,7 @@ An LR is a combination of the following:
 2. How accessible that feature is to your users
 3. The time it takes for your users to obtain value from a feature. Can your users start using the feature immediately, or is there a time-consuming block in their way (Examples: Long setup times, need to watch a 10 hour video to understand it, need to read a long manual, etc.)?
 
-Notice that an LR does not include: How quickly a feature can be delivered, since a feature with a low LR may take longer to make then a feature with a higher LR. It also does not measure the desirability of a product for your user (lLke a Rune Scimitar, a product may be popular, but may also be a high LR. However, a low LR may also have high desirability).
+Notice that an LR does not includ how quickly a feature can be delivered, since a feature with a low LR may take longer to make then a feature with a higher LR. It also does not measure the desirability of a product for your user (Like a Rune Scimitar, a product may be popular, but may also be a high LR. However, a low LR may also have high desirability).
 
 **A feature with a high demand, that cannot be used by your users, does not provide your users value.**
 
