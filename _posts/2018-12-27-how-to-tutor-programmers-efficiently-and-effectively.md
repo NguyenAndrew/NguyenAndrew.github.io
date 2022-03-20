@@ -10,7 +10,7 @@ tag:
 - computer science
 
 ---
-Over six years of tutoring in both an educational setting and a professional setting has taught me that no matter what person you are tutoring, success is obtained not solely by the knowledge taught, but also by what methods are used to mentor and teach those concepts. This post provides some loose guidelines meant to inform both new and experienced tutors.
+Over a decade of tutoring in both an educational setting and a professional setting has taught me that no matter what person you are tutoring, success is obtained not solely by the knowledge taught, but also by what methods are used to mentor and teach those concepts. This post provides some loose guidelines meant to inform both new and experienced tutors.
 
 ## 1. Patience (and failing fast)
 When tutoring someone in programming you need to be patient. For tutors, that means avoiding always giving answers, and letting the person(s) you are tutoring “fail”. Allowing for mistakes (in a safe environment), will help those you are tutoring avoid repeating the same mistakes in the future. 
