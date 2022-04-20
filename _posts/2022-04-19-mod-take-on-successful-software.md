@@ -23,7 +23,7 @@ Easy to Maintain
 * Use the [Simple Programming Paradigm](https://github.com/NguyenAndrew/Simple-Programming), and enforce it with the [Mock Orchestration Framework](https://github.com/NguyenAndrew/mof-java). Simple is good!
 
 Easy to Observe
-* "Focused Environment" Example: Important document should be highlighted, and out-of-date documentation should be archived.
+* "Focused Environment" Example: Important documentation should be highlighted, and out-of-date documentation should be archived.
 * Quick to prove something did or did not happen. Find the answers about your software in a click or few away!
 
 Easy to Deliver
