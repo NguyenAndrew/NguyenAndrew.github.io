@@ -19,7 +19,7 @@ Successful software is built such that it is MOD:
 Below are some examples of MOD:
 
 Easy to Maintain
-* "Forget it, and come back to it" Example: If you took a long vacation, adding new functionality should be almost as fast as if you were working on that software recently
+* "Forget it, and come back to it" Example: If you took a long vacation, adding new functionality should be almost as fast as if you were working on that software recently.
 * Use the [Simple Programming Paradigm](https://github.com/NguyenAndrew/Simple-Programming), and enforce it with the [Mock Orchestration Framework](https://github.com/NguyenAndrew/mof-java). Simple is good!
 
 Easy to Observe
