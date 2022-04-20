@@ -27,7 +27,7 @@ Easy to Observe
 * Quick to prove something did or did not happen. Find the answers about your software in a click or few away!
 
 Easy to Deliver
-* "You break it, so they buy it" Example: Pivot and change your software, so that it delivers what you want it to. Nothing is perfect from the beginning, but it can be closely reached overtime! Also, successful software shall eventually stabilize, so the pivots decrease overtime.
+* "You break it, so they buy it" Example: Pivot and change your software, so that it delivers what you want it to. Almost nothing is perfect from the beginning, but it can be closely reached overtime! Also, successful software shall eventually stabilize, so the pivots decrease overtime.
 * Deliver for the short-term, mid-term, and long-term. By having short-term goals, that help deliver mid-term goals, that help deliver long-term goals, you gain incremental value that gives insight on where effort is most needed!
 
 Start applying the concepts of MOD, to find your success!
