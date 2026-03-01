@@ -1,61 +1,77 @@
-# JBlog Jekyll Theme
+# NguyenAndrew.github.io
 
-**[JBlog](https://alperenbozkurt.net/JBlog)** is a simple jekyll theme.
+Personal website for Andy Nguyen — Software Engineer, Innovator, and Friend.
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+Live site: [andyln.com](https://andyln.com)
 
-If you like this theme or using it, please give a **star** for motivation.
+## About
 
-## Preview
+This is the source code for Andy Nguyen's personal website, built with [Jekyll](https://jekyllrb.com/) using the [JBlog](https://alperenbozkurt.net/JBlog) theme and hosted on GitHub Pages.
 
-![Home Page](/assets/img/screenshot-home.png)    
-![Post Page](/assets/img/screenshot-post.png)
+## Website Sections
 
-See a [live version of JBlog](https://alperenbozkurt.net/JBlog) hosted on GitHub.
+| Section | URL | Description |
+|---------|-----|-------------|
+| Home | `/` | Landing page with profile photo, bio, social links, and site navigation |
+| Blog | `/blog/` | Index of all blog posts |
+| About | `/about/` | Personal background, career history, and bio |
+| Resume | `/resume/` | Redirects to the PDF resume ([andyln-resume.pdf](resume/andyln-resume.pdf)) |
+| 404 | `/404` | Custom not-found page with a link to file a GitHub issue |
 
-## Getting Started
+## Project Structure
 
-To learn how to install and use this theme check out the [Setup Guide](https://alperenbozkurt.net/JBlog/JBlog-theme/) for more information or apply the following instructions.
-
-## Installation
-
-- Fork the Repo
-- Edit _config.yml file.
-	- Edit url as **https**://yourusername.github.io
-	- and others
-- Remove sample posts from _posts folder and add yours.
-- Edit index.md file in about folder.
-- Change repo name to YourUserName.github.io
-- Open "Github Pages" from settings page
-- Click the star icon at the top of this page ;)
-
-
-## How to customization
-
-- You can change title, description, profile image and social network icons in _config.yml file.
-- If you are not like this colors or fonts, you can change its in _sass/variables.scss file.
-```scss
-$title-font   : Lobster, cursive;
-$menu-font    : Alegreya Sans SC, sans-serif;
-$main-font    : Roboto Slab, serif;
 ```
-You can add your fonts this area.
-```scss
-// Colors
-$blue: #3498db;
-$orange: #e67e22;
-$red: #e74c3c;
-$white: #ecf0f1;
-$green: #2ecc71;
-$turko: #1abc9c;
-$purple: #9b59b6;
-$dark-blue: #34495e;
-
-$main-color: $white;
-$background-color: $blue;
-$thrid-color: rgba(52, 152, 219, 0.8);
+.
+├── _config.yml          # Site configuration (title, bio, social links, plugins)
+├── _data/
+│   └── navigation.yml   # Navigation menu items and URLs
+├── _includes/           # Reusable HTML partials
+│   ├── nav.html         # Navigation bar (inner pages)
+│   ├── nav-home.html    # Navigation bar (home page)
+│   ├── footer.html      # Page footer (inner pages)
+│   ├── footer-home.html # Page footer (home page)
+│   ├── social-links.html # Social media icon links
+│   ├── head.html        # <head> tag (inner pages)
+│   ├── head-home.html   # <head> tag (home page)
+│   └── ...              # Additional partials (scripts, comments, TOC, etc.)
+├── _layouts/            # Page templates
+│   ├── home.html        # Home/landing page layout
+│   ├── post.html        # Individual blog post layout
+│   ├── post-index.html  # Blog index layout
+│   ├── page.html        # Generic content page layout
+│   └── redirected.html  # Redirect layout (used by Resume)
+├── _posts/              # Blog posts in Markdown (YYYY-MM-DD-title.md)
+├── _sass/               # SCSS stylesheets
+│   ├── variables.scss   # Colors, fonts, and theming variables
+│   └── site.scss        # Main stylesheet
+├── assets/              # Static assets (images, fonts, CSS, JS)
+├── about/
+│   └── index.md         # About Me page content
+├── blog/
+│   └── index.md         # Blog index page front matter
+├── resume/
+│   ├── index.md         # Resume redirect page
+│   └── andyln-resume.pdf# PDF resume
+├── index.html           # Home page
+├── 404.html             # Custom 404 page
+├── CNAME                # Custom domain (andyln.com)
+├── Gemfile              # Ruby gem dependencies
+└── robots.txt           # Search engine crawl rules
 ```
 
-$main-color is panels background color.
-$background-color is background, buttons, links color.
-$thrid-color is opacity version of background color.
+## Blog Posts
+
+- [MOD - Take on Successful Software](https://andyln.com/mod-take-on-successful-software/) (2022-04-19)
+- [Rune Scimitars and Solutions – Strategically delivering products to your users](https://andyln.com/rune-scimitars-and-solutions/) (2020-11-16)
+- [How to Tutor Programmers Efficiently and Effectively](https://andyln.com/how-to-tutor-programmers-efficiently-and-effectively/) (2018-12-27)
+
+## Connect
+
+- GitHub: [NguyenAndrew](https://github.com/NguyenAndrew)
+- LinkedIn: [nguyen-andrew](https://www.linkedin.com/in/nguyen-andrew/)
+
+## Built With
+
+- [Jekyll](https://jekyllrb.com/)
+- [JBlog Theme](https://alperenbozkurt.net/JBlog)
+- [GitHub Pages](https://pages.github.com/)
